@@ -3,7 +3,7 @@
 
 ## Project Overview 📋
 
-The project challenges me to replicate the functionality of the C standard library’s `printf` function. This function is complex and widely used for formatted output, making it a keystone of C programming. My implementation handles various conversion specifiers, flags, width, precision, and length modifiers, following the genuine behavior of `printf`.
+The project challenges me to replicate the functionality of the C standard library’s `printf` function to `ft_printf`. This function is complex and widely used for formatted output, making it a keystone of C programming. My implementation handles various conversion specifiers, flags, width, precision, and length modifiers, following the genuine behavior of `printf`.
 
 ### Development Approach 🛠️
 
